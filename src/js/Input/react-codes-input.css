@@ -60,7 +60,7 @@
 .code {
   cursor: pointer;
   height: 100%;
-  border-left: 1px solid #e5e5e5;
+  /* border-left: 1px solid #e5e5e5; */
 }
 
 .code-wrapper:first-child .code {
